@@ -8,12 +8,10 @@ Work Experience:
 ---
 Research Assistant, Brain Research and Imaging for Neurorehabilitation (BRAIN) Lab, 
 McGill University *(January 2023 - Present)*
-  Performed data analysis, conducted literature review, and drafted a manuscript. The soon-to-be-published paper concerns the long-term efficacy of a novel treatment paradigm for individuals with chronic stroke. 
-  Additionally, currently assisting researchers in performing electroencephalogram recordings, primarily exploring neural correlates of long-COVID.
+> > Performed data analysis, conducted literature review, and drafted a manuscript. The soon-to-be-published paper concerns the long-term efficacy of a novel treatment paradigm for individuals with chronic stroke. Additionally, currently assisting researchers in performing electroencephalogram recordings, primarily exploring neural correlates of long-COVID.
 
 Research Intern, J. Philip Kistler Stroke Research Center, Massachusetts General Hospital, Harvard Medical School *(June – August 2022)*
-  Performed data abstraction from the medical records of over 200 patients for a study assessing the efficacy of Left Atrial Appendage Closure in preventing brain hemorrhages in Atrial Fibrillation patients. 
-  Reviewed relevant journal articles and participated in laboratory meetings.
+> > Performed data abstraction from the medical records of over 200 patients for a study assessing the efficacy of Left Atrial Appendage Closure in preventing brain hemorrhages in Atrial Fibrillation patients. Reviewed relevant journal articles and participated in laboratory meetings.
 
 
 Community Involvement:
