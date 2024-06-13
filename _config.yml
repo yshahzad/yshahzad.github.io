@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Yavuz Shahzad"
-  avatar           : "/images/yavuz-headshot.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Undergrad at McGill University: Honours Probability and Statistics"
   location         : "Montréal, QC"
   email            :
@@ -127,17 +127,20 @@ author:
     - label: "X (Twitter)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/yavuz_shahzad"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/yavuzshahzad/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yshahzad"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yavuz-shahzad/"
     - label: "ResearchGate"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Yavuz-Shahzad"
 
 # Site Footer
