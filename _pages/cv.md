@@ -6,7 +6,7 @@ author_profile: true
 
 Work Experience:
 ---
-Research Assistant, Brain Research and Imaging for Neurorehabilitation (BRAIN) Lab, 
+Undergraduate Researcher, Brain Research and Imaging for Neurorehabilitation (BRAIN) Lab, 
 McGill University *(January 2023 - Present)*
 * Performed data analysis, conducted literature review, and drafted a manuscript. The soon-to-be-published paper concerns the long-term efficacy of a novel treatment paradigm for individuals with chronic stroke. Additionally, currently assisting researchers in performing electroencephalogram recordings, primarily exploring neural correlates of long-COVID.
 
