@@ -3,6 +3,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
+##This CV is available for download in PDF form here.
 
 Work Experience:
 ---
@@ -41,7 +42,7 @@ Dean's Honour List (2022 - 2022)
 Faculty of Arts Scholarship (2022 - 2023)
 * Awarded $100 for having a GPA in the top 5% of those in the Faculty of Arts at McGill.
 
-This CV is available for download in PDF form here.
+
 
 
 
