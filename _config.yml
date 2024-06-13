@@ -114,10 +114,10 @@ analytics:
 author:
   name             : "Yavuz Shahzad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Undergrad: Honours Probability and Statistics"
+  bio              : "Undergrad at McGill University: Honours Probability and Statistics"
   location         : "Montréal, QC"
   email            :
-  links:
+  links:Ed
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yavuz.shahzad@mail.mcgill.ca"
