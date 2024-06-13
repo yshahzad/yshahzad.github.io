@@ -4,9 +4,9 @@ main:
     url: https://yshahzad.github.io/
   - title: "Research"
     url: https://yshahzad.github.io/research/
- - title: "Personal Projects"
+  - title: "Personal Projects"
     url: /projects/
- - title: "Mentorship"
+  - title: "Mentorship"
     url: /team-mentorship/
- - title: "CV"
+  - title: "CV"
     url: /cv/
