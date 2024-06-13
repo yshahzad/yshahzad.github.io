@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Yavuz Shahzad"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/yavuz-headshot.jpg"
   bio              : "Undergrad at McGill University: Honours Probability and Statistics"
   location         : "Montréal, QC"
   email            :
