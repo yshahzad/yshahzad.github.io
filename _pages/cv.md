@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
-#### [This CV is available for download in PDF form here.]
+<sub><sup> This CV is available for download in PDF form [here.](https://yshahzad.github.io/yavuz-shahzad-cv.pdf) </sup></sub>
 
 Work Experience:
 ---
