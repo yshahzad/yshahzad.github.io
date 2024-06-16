@@ -7,7 +7,7 @@ This CV is available for download in PDF form [here.](https://yshahzad.github.io
 
 Work Experience:
 ---
-Undergraduate Researcher, Brain Research and Imaging for Neurorehabilitation (BRAIN) Lab, 
+Undergraduate Researcher, [Brain Research and Imaging for Neurorehabilitation (BRAIN) Lab,](https://boudriaslab.com/) 
 McGill University *(January 2023 - Present)*
 * Performed data analysis, conducted literature review, and drafted a manuscript. The soon-to-be-published paper concerns the long-term efficacy of a novel treatment paradigm for individuals with chronic stroke. Additionally, currently assisting researchers in performing electroencephalogram recordings, primarily exploring neural correlates of long-COVID.
 
@@ -17,7 +17,7 @@ Research Intern, J. Philip Kistler Stroke Research Center, Massachusetts General
 
 Community Involvement:
 ---
-Senior Editor, McGill Science Undergraduate Research Journal *(October 2023 - Present)*
+Senior Editor, [McGill Science Undergraduate Research Journal](https://msurjonline.mcgill.ca/about/editorialTeam) *(October 2023 - Present)*
 * Made edits to and facilitated the peer-review of original scientific research of various disciplines. Collaborated with the journal’s Outreach Portfolio to facilitate the submission of articles to the editorial board through social media and presentations to university classes.
 
 Tutor, Music Inclusion Program, the K-12 Henderson Inclusion School *(January – May 2021)*
