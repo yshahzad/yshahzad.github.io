@@ -2,7 +2,6 @@
 title: Research
 permalink: /research/
 ---
-
 ## [The BRAIN Lab](https://boudriaslab.com/)
 
 In the year and a half I have worked as an undergraduate researcher for the Brain Research and Imaging 
