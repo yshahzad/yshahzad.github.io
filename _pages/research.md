@@ -4,7 +4,6 @@ permalink: /research/
 ---
 
 ## [The BRAIN Lab](https://boudriaslab.com/)
-___
 
 In the year and a half I have worked as an undergraduate researcher for the Brain Research and Imaging 
 for Neurorehabiliation Lab, under the supervision of Dr. Marie-Hélène Boudrias, my research has focused on three main
