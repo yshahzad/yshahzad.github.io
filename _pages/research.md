@@ -5,7 +5,7 @@ permalink: /research/
 ## [The BRAIN Lab](https://boudriaslab.com/)
 
 In the year and a half I have worked as an undergraduate researcher for the Brain Research and Imaging 
-for Neurorehabiliation Lab, under the supervision of Dr. Marie-Hélène Boudrias, my research has focused on three main
+for Neurorehabiliation Lab, under the supervision of Dr. Marie-Hélène Boudrias, my research has focused on two main
 categories:
 
 ### Chronic Stroke Recovery
@@ -22,6 +22,8 @@ Although clinical definitions are currently under debate within the scientific c
 generally considered to be a condition characterized by a wide range of symptoms that persist or emerge four weeks 
 (or longer) after the acute phase of COVID-19 infection. Many of these symptoms are psychological in nature, including 
 chronic fatigue, memory disturbances, cognitive dysfunction, and post-exertional malaise. 
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/BetaBurstExample.png" alt="">
 
 I have assisted with the collection of electroencephalogram (EEG) data in a study that compared the motor signalling 
 and response of individuals with Long COVID to healthy control participants. I am currently working on adapting code
