@@ -3,13 +3,23 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
-This CV is available for download in PDF form [here.](https://yshahzad.github.io/yavuz-shahzad-cv.pdf)
+This CV is available for download in PDF form [here.](https://yshahzad.github.io/Yavuz_ResearchCV_Jan2025.pdf)
+
+
+Education:
+---
+McGill University (Montreal, QC, Canada)
+* Bachelor of Arts: Statistics, Minor in Psychology
+* Current GPA: 3.62
+
 
 Work Experience:
 ---
 Undergraduate Researcher, [Brain Research and Imaging for Neurorehabilitation (BRAIN) Lab,](https://boudriaslab.com/) 
-McGill University *(January 2023 - Present)*
-* Performed data analysis, conducted literature review, and drafted a manuscript. The soon-to-be-published paper concerns the long-term efficacy of a novel treatment paradigm for individuals with chronic stroke. Additionally, currently assisting researchers in performing electroencephalogram recordings, primarily exploring neural correlates of long-COVID.
+McGill University *(January 2023 - August 2024)*
+* Cleaned and analyzed data, conducted literature review, and drafted a soon-to-be-published manuscript about a novel treatment paradigm for those with chronic stroke.
+* Received an award of $8,800 to investigate the neural correlates of long-COVID. Analyzed β-burst charac- teristics in long-COVID patients using Python (Pandas, Scikit-learn).
+* Served as a consultant to colleagues, refining analysis methodologies to ensure statistical rigor.
 
 Research Intern, J. Philip Kistler Stroke Research Center, Massachusetts General Hospital, Harvard Medical School *(June – August 2022)*
 * Performed data abstraction from the medical records of over 200 patients for a study assessing the efficacy of Left Atrial Appendage Closure in preventing brain hemorrhages in Atrial Fibrillation patients. Reviewed relevant journal articles and participated in laboratory meetings.
@@ -17,24 +27,17 @@ Research Intern, J. Philip Kistler Stroke Research Center, Massachusetts General
 
 Community Involvement:
 ---
-Senior Editor, [McGill Science Undergraduate Research Journal](https://msurjonline.mcgill.ca/about/editorialTeam) *(October 2023 - Present)*
-* Made edits to and facilitated the peer-review of original scientific research of various disciplines. Collaborated with the journal’s Outreach Portfolio to facilitate the submission of articles to the editorial board through social media and presentations to university classes.
-
-Tutor, Music Inclusion Program, the K-12 Henderson Inclusion School *(January – May 2021)*
-* Taught music theory and ukulele technique to 3rd, 4th, and 5th grade students at the Henderson Inclusion School. Coordinated lessons and tutored in group and individual settings.
-
-
-Education:
----
-McGill University (Montreal, QC, Canada)
-* Bachelor of Arts: Honours Probability and Statistics, Minor in Psychology
-* Current GPA: 3.84
+Managing Editor: Head of Outreach, [McGill Science Undergraduate Research Journal](https://msurjonline.mcgill.ca/about/editorialTeam) *(October 2023 - Present)*
+* Made edits to and facilitated the peer-review of original scientific research of various disciplines. 
+* Responsible for a team of four, lead MSURJ’s outreach operations and ensure the longevity and reputation
+of the journal are maintained.
 
 
 Awards and Honours:
 ---
 Natural Sciences and Engineering Research Council of Canada (NSERC) Undergraduate Research Award (Summer 2024)
-* Awarded $8,800 to conduct research on the efficacy of quantitative MRI as a means of revealing the cortical microstructure underlying post-stroke impairments in language and motor performance.
+* Granted by the Natural Sciences and Engineering Research Council of Canada (NSERC), the $8,800 USRA was
+awarded for research under the supervision of Dr. Marie-Hélène Boudrias of McGill’s BRAIN Lab.
 
 Dean's Honour List (2022 - 2022)
 * Designated as being in the top 10% of students in the Faculty of Arts at McGill, in terms of GPA. 
