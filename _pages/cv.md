@@ -10,7 +10,6 @@ Education:
 ---
 McGill University (Montreal, QC, Canada)
 * Bachelor of Arts: Statistics, Minor in Psychology
-* Current GPA: 3.62
 
 
 Work Experience:
