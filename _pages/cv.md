@@ -15,9 +15,9 @@ McGill University (Montreal, QC, Canada)
 Work Experience:
 ---
 Undergraduate Researcher, [Brain Research and Imaging for Neurorehabilitation (BRAIN) Lab,](https://boudriaslab.com/) 
-McGill University *(January 2023 - August 2024)*
+McGill University *(January 2023 - September 2024)*
 * Cleaned and analyzed data, conducted literature review, and drafted a soon-to-be-published manuscript about a novel treatment paradigm for those with chronic stroke.
-* Received an award of $8,800 to investigate the neural correlates of long-COVID. Analyzed β-burst charac- teristics in long-COVID patients using Python (Pandas, Scikit-learn).
+* Received an award of $8,800 to investigate the neural correlates of long-COVID. Analyzed β-burst characteristics in long-COVID patients using Python (Pandas, Scikit-learn).
 * Served as a consultant to colleagues, refining analysis methodologies to ensure statistical rigor.
 
 Research Intern, J. Philip Kistler Stroke Research Center, Massachusetts General Hospital, Harvard Medical School *(June – August 2022)*
