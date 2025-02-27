@@ -2,7 +2,10 @@
 main:
   - title: "Research"
     url: https://yshahzad.github.io/research/
+  - title: "Publications"
+    url: /publications/
   - title: "Personal Projects"
     url: /projects/
   - title: "CV"
     url: /cv/
+  

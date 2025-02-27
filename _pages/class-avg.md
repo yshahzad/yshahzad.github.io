@@ -4,7 +4,7 @@ permalink: /projects/class-avg/
 author_profile: true
 ---
 
-ProfSight is an interactive data dashboard that aims to help undergraduates 
+[ProfSight](https://profsight.streamlit.app/) is an interactive data dashboard that aims to help undergraduates 
 at McGill University make informed choices about their degree planning. 
 The dashboard has two main components; the first ("Search by Course") 
 displays historical student performance data of a user-specified McGill 
