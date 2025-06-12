@@ -14,6 +14,9 @@ McGill University (Montreal, QC, Canada)
 
 Work Experience:
 ---
+Data Science Intern, Manulife *(May - August 2025)*
+* Currently ongoing.
+
 Undergraduate Researcher, [Brain Research and Imaging for Neurorehabilitation (BRAIN) Lab,](https://boudriaslab.com/) 
 McGill University *(January 2023 - September 2024)*
 * Cleaned and analyzed data, conducted literature review, and drafted a soon-to-be-published manuscript about a novel treatment paradigm for those with chronic stroke.
