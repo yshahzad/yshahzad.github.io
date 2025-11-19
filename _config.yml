@@ -113,7 +113,7 @@ analytics:
 # Site Author
 author:
   name             : "Yavuz Shahzad"
-  avatar           : "images/yavuz-headshot.jpg"
+  avatar           : "images/YS_Headshot_Nov25.jpeg"
   bio              : "Undergrad at McGill University: BA Statistics"
   location         : "Montréal, QC"
   email            :
@@ -142,9 +142,6 @@ author:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Yavuz-Shahzad"
-    - label: "Spotify"
-      icon: "fa-brands fa-spotify"
-      url: "https://stats.fm/user/yavuz3000?range=lifetime"
       
 
 # Site Footer
